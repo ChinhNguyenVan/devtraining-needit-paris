@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <default>false</default>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="list">b574e51147132100ba13a5554ee4903e</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</kb_knowledge_page>
+        <login_page display_value="bhome">b83d12f65b4132003d1c484c11f91ab2</login_page>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-30 10:25:56</sys_created_on>
+        <sys_id>d07371ad07f020100306fc018c1ed02c</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>Test Thu</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_portal_d07371ad07f020100306fc018c1ed02c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-30 10:41:07</sys_updated_on>
+        <theme/>
+        <title>Test Thu</title>
+        <ts_index_group/>
+        <url_suffix>tt</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=d07371ad07f020100306fc018c1ed02c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9de2d1dddb514c504d2bac44d49619f9</instance_id>
+        <instance_name>dev95136</instance_name>
+        <name>sp_portal_d07371ad07f020100306fc018c1ed02c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><default>false</default><hide_portal_name>false</hide_portal_name><homepage display_value="list">b574e51147132100ba13a5554ee4903e</homepage><icon/><kb_knowledge_base/><kb_knowledge_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</kb_knowledge_page><login_page display_value="bhome">b83d12f65b4132003d1c484c11f91ab2</login_page><logo/><notfound_page/><quick_start_config/><sc_catalog/><sc_catalog_page/><sc_category_page/><sp_chat_queue/><sp_rectangle_menu/><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-30 10:25:56</sys_created_on><sys_id>d07371ad07f020100306fc018c1ed02c</sys_id><sys_mod_count>23</sys_mod_count><sys_name>Test Thu</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sp_portal_d07371ad07f020100306fc018c1ed02c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-30 10:41:07</sys_updated_on><theme/><title>Test Thu</title><ts_index_group/><url_suffix>tt</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=d07371ad07f020100306fc018c1ed02c"/></record_update>]]></payload>
+        <payload_hash>1503654619</payload_hash>
+        <record_name>Test Thu</record_name>
+        <reverted_from/>
+        <source>89da24860720e0100306fc018c1ed08b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-30 10:41:07</sys_created_on>
+        <sys_id>8097fd21073420100306fc018c1ed0a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17618bde66f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-30 10:41:07</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>c897fd218134201050dcebf89feaaea7</update_guid>
+        <update_guid_history>c897fd218134201050dcebf89feaaea7:1503654619,c757b9219f34201032ce2871568a7c63:833705188,5447b921f73420105ce66071b1ba4ddd:532351989,b717b921c9342010b17ec3ed19699fd8:-2110014016,7ff67921c53420107ba7277d0897c27d:-1383907003,a3d675211b342010ad860801b502583a:1815241676,60a6f121ec3420104fa82398d3b7c418:1616038423,1086f121323420106b77d104c5f100c2:1993922706,13667121be342010b3f75028e9351c11:1179221284,1956312180342010a6ca2a49689d4df5:-91366091,494631216f34201008b8267d4f50e5f0:697719524,7616b9ed9df020101443e203ffbe212b:2006897560,5de53ded5af02010b832606450b47f16:-1855097989,e1d5b5ed2ff0201091705ae09eef2a7b:-138424112,98c539ed5df02010fb697c4d6d81226c:2078997445,a2a579ed9cf02010d9d13dff264d21d8:8139290,6f7539ed42f0201057142f76d2fb5c17:1991073531,82e47dad09f02010cca528eda600f423:1693378403,f1c431ed3af020104cb8b5fe57619278:-998373874,1b947dadc1f0201005bdc76c176629d7:1392762264,aa847dad1ff0201004774bd0cd9ee50f:406970197,1074f9addff0201021decc16b07db6fd:-572696897,8344712df2f0201082f832a29765fefb:1831160015,7914f5ade7f0201015f3ab181873eab8:-577590688</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test Thu">99b77161073420100306fc018c1ed0a7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-30 10:41:44</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>a07f5a83bdd6467ca966d4b0dd9db304</sys_id>
+        <sys_metadata>d07371ad07f020100306fc018c1ed02c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Thu</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sp_portal_d07371ad07f020100306fc018c1ed02c</sys_update_name>
+        <sys_update_version display_value="sp_portal_d07371ad07f020100306fc018c1ed02c">8097fd21073420100306fc018c1ed0a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-30 10:41:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
