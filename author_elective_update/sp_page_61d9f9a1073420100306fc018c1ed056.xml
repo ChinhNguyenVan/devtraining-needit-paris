@@ -53,7 +53,7 @@
         <update_guid_history>e5d93da13e342010c6d50462bad86ec0:-998157909</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="copy_of_mb_index_1">9ce97da1073420100306fc018c1ed044</sys_audit_delete>
+        <sys_audit_delete display_value="">9ce97da1073420100306fc018c1ed044</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-11-30 10:51:14</sys_created_on>
